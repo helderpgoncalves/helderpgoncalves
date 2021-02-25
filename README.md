@@ -1,6 +1,6 @@
 ### Hi there ! I'm Hélder Gonçalves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+<div>
 <a href="https://discord.gg/xJ7dpjnG">
   <img align="left" alt="Helder's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/heldergoncalves16/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+</div>
 <br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=helderpgoncalves.helderpgoncalves)
