@@ -23,7 +23,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@heldinhoshotgun](https://twitter.com/heldinhoshotgun);
-- 📝 [Resume](https://drive.google.com/file/d/1ePWBIxzw53RTnoKP5D0tE13f0Rc8lBYC/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1JLkUgNbW1o6N3uPnXKpVrAMkx-HzPGbu/view?usp=sharing)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
