@@ -15,7 +15,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=helderpgoncalves.helderpgoncalves)
 
-Hi, I'm [Hélder Gonçalves](https://helderpgoncalves.github.io), a passionate self-taught Full Stack Developer (however I am finishing a degree in Computer Engineering) from Portugal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Hélder Gonçalves](https://helderpgoncalves.github.io), a passionate self-taught Full Stack Developer (however I have Bachelor Degree in Computer Science Engineering) from Portugal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
