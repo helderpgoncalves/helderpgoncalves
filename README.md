@@ -1,6 +1,6 @@
 # Hélder Gonçalves
 
-**Full Stack Developer & AI Engineer** | 5+ years of turning coffee into code and ideas into intelligent systems ☕→💻
+**Full Stack Developer & AI Engineer** | 6+ years of turning coffee into code and ideas into intelligent systems ☕→💻
 
 I build end-to-end solutions that combine modern web technologies with cutting-edge AI/ML capabilities. Whether it's crafting robust backend architectures, training machine learning models, or designing intuitive user interfaces—I've got you covered. Think of me as the Swiss Army knife of software engineering, but with better documentation.
 
